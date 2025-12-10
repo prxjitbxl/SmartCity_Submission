@@ -1,0 +1,3 @@
+1. Improve my backend development skills using Node.js.
+2. Understand Git workflow and version control best practices.
+3. Build confidence in setting up complete development environments.
